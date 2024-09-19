@@ -15,6 +15,7 @@ Key relationships between features and the target variable (price) are explored.
 sqft_living
 sqft_above
 grade
+
 4. Model Development
 Several models are developed to predict housing prices:
 
